@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIHQfP/0PTvrjw72/Wcf8JPOOmQ3tB9Jd6Pc5O6gscDBJRjTu94ZWw7xBFKUqg6h1Z36dGpoWHxL6Iziq14c9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Linis\\Source\\Repos\\LibraryWPF\\libraryWPF\\libraryWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Linis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
